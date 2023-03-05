@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Actor'/>
+        <page name='ActorProperty'/>
+        <page name='ActorReentrancy'/>
+        <page name='ActorIsolatedKeyword'/>
+        <page name='ActorNonIsolated'/>
+        <page name='AyncAndConcurrentMap'/>
+        <page name='Base'/>
+        <page name='GlobalActorInference'/>
+        <page name='IsolatedParameter'/>
+        <page name='MainActor'/>
+        <page name='MemoryManagement'/>
+        <page name='Task'/>
+        <page name='TaskConccurency'/>
+        <page name='TaskDetached'/>
+        <page name='TaskGroup'/>
+        <page name='TaskGroupCancel'/>
+        <page name='Yeild'/>
+    </pages>
+</playground>
