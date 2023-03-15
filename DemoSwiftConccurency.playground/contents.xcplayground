@@ -17,6 +17,7 @@
         <page name='TaskDetached'/>
         <page name='TaskGroup'/>
         <page name='TaskGroupCancel'/>
+        <page name='ViewTask'/>
         <page name='Yeild'/>
     </pages>
 </playground>
