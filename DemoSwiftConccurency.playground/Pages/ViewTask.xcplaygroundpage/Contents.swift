@@ -1,6 +1,6 @@
-
 import SwiftUI
 
+// https://oleb.net/2022/swiftui-task-mainactor/
 
 @MainActor
 func doWork() {
